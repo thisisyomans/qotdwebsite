@@ -9,6 +9,8 @@
 .section1 {
 	height: 100vh;
 	width: 100vw;
+	background: linear-gradient(to bottom, #FF0090, #009BA1);
+	/*opacity: .4;*/
 }
 
 #androidimage {
