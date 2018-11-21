@@ -6,11 +6,19 @@
 	z-index: 1000000;
 }
 
-.section1 {
-	height: 100vh;
+.maindiv {
 	width: 100vw;
+	height: 100vh;
 	background: linear-gradient(to bottom, #FF0090, #009BA1);
 	/*opacity: .4;*/
+}
+
+.androiddiv {
+	margin-top: 20vh;
+}
+
+.iosdiv {
+	margin-top: 20vh;
 }
 
 #androidimage {
