@@ -22,11 +22,12 @@
 }
 
 #androidimage {
-
+	height: 50vh;
+	display: block;
 }
 
-#iosimaege {
-
+#iosimage {
+	display: block;
 }
 
 #playstoreimage {
